@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AAkakarot
-- 👀 I’m interested in Competitive Coding learning new things with my peers.
+- 👋 Hi, I’m @AAkakarot, a Software Engineer in sendinble.
+- 👀 I’m interested in Coding and learning new things with my peers.
 - 🌱 I’m currently writing rest APIs with Golang and MongoDB.
 - 💞️ I’m looking to collaborate on  challenging opportunities in a fast-growing organisation so as to
      hone my technical skills and attaining excellent standards.
