@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AAkakarot, a Software Engineer in sendinble.
 - 👀 I’m interested in Coding and learning new things with my peers.
-- 🌱 I’m currently writing rest APIs with Golang and MongoDB.
-- 💞️ I’m looking to collaborate on  challenging opportunities in a fast-growing organisation so as to
-     hone my technical skills and attaining excellent standards.
+- 🌱 I’m currently writing rest APIs with Golang, redis and MongoDB.
+- 💞️ I’m looking to collaborate on  challenging opportunities in a fast-growing organization so as to
+     hone my technical skills and attain excellent standards.
 - 📫 How to reach me : Here is my linkedin profile :- www.linkedin.com/in/akash-kumar-19b98a18b
 
 <!---
